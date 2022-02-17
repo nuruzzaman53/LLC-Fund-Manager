@@ -1,0 +1,54 @@
+
+.fund,.retail-teller,.product-banker,.web-portals,.video,.features{
+    margin-top: 80px;
+    padding-bottom: 80px;
+}
+ul.fund,ul.retail,ul.features-list {
+    list-style-type:none;
+}
+
+ul.fund li,ul.retail li {
+    margin-left: -30px;
+    margin-top: 10px;
+    color: rgb(104, 104, 104);
+}
+ul.fund li span,ul.retail li span {
+    margin-right: 10px;
+}
+ul li span {
+    padding-left:10px;
+    color: grey;
+}
+iframe {
+    border-radius: 20px;
+}
+.video h1,.footer h4,.footer h3 {
+    font-family: 'Poppins', sans-serif;
+}
+h1.title {
+    color: grey
+}
+h1.sub-title {
+    color: black;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+
+.features .card-text,.feature_list {
+    color:rgb(64, 57, 90)
+}
+div.feature_list {
+    margin-left:110px;
+}
+div.feature_list2 {
+    margin-left:260px;
+}
+a:link {
+    text-decoration: none;
+}
+.nav-item a.nav-link:link {
+    color: black;
+}
+.contact {
+    padding-right: 60px;
+}
